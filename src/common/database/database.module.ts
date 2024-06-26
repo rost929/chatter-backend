@@ -11,5 +11,3 @@ import { MongooseModule } from '@nestjs/mongoose';
   })]
 })
 export class DatabaseModule {}
-
-// MongooseModule.forRoot('mongodb://root:example@localhost:27017/admin', {}),
